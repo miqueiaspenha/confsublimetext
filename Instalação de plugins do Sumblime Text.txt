@@ -1,0 +1,15 @@
+Instalação de plugins do Sumblime Text
+
+Installar o package Control no no site:
+
+http://wbond.net/
+
+Procurar pelo sublime text
+
+Depois entrar Command Pallte (Ctrl+Shit+P)
+
+E procurar pro Install Package
+
+Plugins:
+
+Emmet
