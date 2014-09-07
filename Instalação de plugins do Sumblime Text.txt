@@ -13,3 +13,8 @@ E procurar pro Install Package
 Plugins:
 
 Emmet
+Open Folder
+Bootstrap snippets
+html5
+html attributes
+html snipptes
